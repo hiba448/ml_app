@@ -92,8 +92,8 @@ option = st.selectbox(
 
 
 if option=="Test Data":
-  Eda_data('dataset/TEST_CATEGORICAL.xlsx')
+   Eda_data('dataset/TEST_CATEGORICAL.xlsx')
 if option=="Training Data":
    Eda_data('dataset/TRAIN_CATEGORICAL_METADATA.xlsx')
 else:
-  st.error("None had been selected")
+   st.error("None had been selected")
