@@ -1,7 +1,7 @@
 streamlit
 pandas
+openpyxl
 scikit-learn
 matplotlib
 numpy
 seaborn
-openpyxl
